@@ -2,3 +2,12 @@
   font-family: sans-serif;
   text-align: center;
 }
+.height_100 {
+  height: 100vh;
+}
+.height_40 {
+  height: 40vh;
+}
+.bg_slate {
+  background-color: slategray;
+}
